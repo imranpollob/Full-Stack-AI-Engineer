@@ -2,7 +2,7 @@
 
 Welcome to the **AI Engineer Bootcamp** repository!
 
-This repository contains the complete syllabus, daily micro-tutorials, and Python codebase for a comprehensive 13-week journey—taking you from Python fundamentals to state-of-the-art Deep Learning and Transformer architectures.
+This repository contains the complete syllabus and daily micro-tutorials for a comprehensive 13-week journey—taking you from Python fundamentals to state-of-the-art Deep Learning and Transformer architectures.
 
 ## Live Documentation 📖
 
@@ -12,8 +12,7 @@ The entire curriculum has been formatted as a beautiful, interactive documentati
 
 ## Repository Structure
 
-- `docs/` - Contains all the Markdown files for the daily micro-tutorials and weekly overviews. The live website is built from this folder.
-- `WeekX/DayY/` - Contains the actual Python code, scripts, PyTorch/TensorFlow experiments, and datasets corresponding to the daily lessons.
+- `docs/` - Contains all the Markdown files for the daily micro-tutorials. The live website is built from this folder.
 - `mkdocs.yml` - The configuration file for generating the documentation website using MkDocs and the Material theme.
 
 ## Local Development
