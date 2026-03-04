@@ -47,9 +47,11 @@ cover/
 
 # Jupyter Notebook
 .ipynb_checkpoints
+*/.ipynb_checkpoints/*
 
 # Environments
 .env
+.env.*
 .venv
 env/
 venv/
@@ -67,4 +69,16 @@ site/
 *.swp
 *.swo
 *~
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs and databases
+*.sqlite
+*.log

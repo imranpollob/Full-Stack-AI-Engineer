@@ -95,6 +95,6 @@ if __name__ == "__main__":
 ```
 
 ## Wrapping Up Week 1!
-Congratulations! You have completed the foundation of your Full-Stack AI Engineer journey. You can now read, write, and structure professional Python code. 
+Congratulations! You have completed the foundation of your AI Engineer Bootcamp journey. You can now read, write, and structure professional Python code. 
 
 **Next Week:** We enter the world of Data Science. We will learn **NumPy** for crunching massive numbers, **Pandas** for analyzing tables of data, and **Matplotlib/Seaborn** to visualize our findings. See you in Week 2!
