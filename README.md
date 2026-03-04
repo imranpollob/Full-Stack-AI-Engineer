@@ -2,7 +2,7 @@
 
 Welcome to the **AI Engineer Bootcamp** repository!
 
-This repository contains the complete syllabus, daily micro-tutorials, and Python codebase for a comprehensive 16-week journey—taking you from Python fundamentals to state-of-the-art Deep Learning and Transformer architectures.
+This repository contains the complete syllabus, daily micro-tutorials, and Python codebase for a comprehensive 13-week journey—taking you from Python fundamentals to state-of-the-art Deep Learning and Transformer architectures.
 
 ## Live Documentation 📖
 
