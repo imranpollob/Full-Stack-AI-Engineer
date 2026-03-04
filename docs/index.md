@@ -9,7 +9,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 ## Part 1: Foundations of AI Engineering
 
 ### Week 1: Python Basics & Environment Setup
-*   [Week 1 Overview](week1_overview.md)
 *   [Day 1: Introduction to Python and Setup](week1_day1.md)
 *   [Day 2: Control Flow and Logic](week1_day2.md)
 *   [Day 3: Functions and Modularity](week1_day3.md)
@@ -19,7 +18,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 1 Capstone Project](week1_day7.md)
 
 ### Week 2: Data Manipulation (NumPy & Pandas)
-*   [Week 2 Overview](week2_overview.md)
 *   [Day 1: Intro to NumPy and Arrays](week2_day1.md)
 *   [Day 2: Advanced NumPy Operations](week2_day2.md)
 *   [Day 3: Intro to Pandas Series and DataFrames](week2_day3.md)
@@ -29,7 +27,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 2 Capstone Project (Data Wrangling)](week2_day7.md)
 
 ### Week 3: Data Visualization and EDA
-*   [Week 3 Overview](week3_overview.md)
 *   [Day 1: Intro to Matplotlib](week3_day1.md)
 *   [Day 2: Advanced Matplotlib](week3_day2.md)
 *   [Day 3: Intro to Seaborn](week3_day3.md)
@@ -39,7 +36,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 3 Capstone Project (Visualizing Real Data)](week3_day7.md)
 
 ### Week 4: Advanced EDA & Data Preprocessing
-*   [Week 4 Overview](week4_overview.md)
 *   [Day 1: Handling Missing Data](week4_day1.md)
 *   [Day 2: Feature Engineering & Extraction](week4_day2.md)
 *   [Day 3: Feature Scaling (Normalization/Standardization)](week4_day3.md)
@@ -49,7 +45,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 4 Capstone Project (End-to-End Preprocessing)](week4_day7.md)
 
 ### Week 5: Math for Machine Learning
-*   [Week 5 Overview](week5_overview.md)
 *   [Day 1: Linear Algebra Basics (Vectors & Matrices)](week5_day1.md)
 *   [Day 2: Matrix Multiplication & Properties](week5_day2.md)
 *   [Day 3: Intro to Calculus (Derivatives)](week5_day3.md)
@@ -63,7 +58,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 ## Part 2: Machine Learning Algorithms
 
 ### Week 6: Intro to Machine Learning
-*   [Week 6 Overview](week6_overview.md)
 *   [Day 1: Supervised vs. Unsupervised Learning](week6_day1.md)
 *   [Day 2: Intro to Scikit-Learn](week6_day2.md)
 *   [Day 3: Train-Test Splits & Validation](week6_day3.md)
@@ -73,7 +67,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 6 Capstone Project (ML Pipeline)](week6_day7.md)
 
 ### Week 7: Supervised Learning
-*   [Week 7 Overview](week7_overview.md)
 *   [Day 1: Linear Regression](week7_day1.md)
 *   [Day 2: Logistic Regression](week7_day2.md)
 *   [Day 3: Decision Trees](week7_day3.md)
@@ -83,7 +76,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 7 Capstone Project](week7_day7.md)
 
 ### Week 8: Unsupervised Learning
-*   [Week 8 Overview](week8_overview.md)
 *   [Day 1: K-Means Clustering](week8_day1.md)
 *   [Day 2: Hierarchical Clustering](week8_day2.md)
 *   [Day 3: DBSCAN](week8_day3.md)
@@ -97,7 +89,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 ## Part 3: Deep Learning and Modern AI
 
 ### Week 9: Neural Networks Fundamentals
-*   [Week 9 Overview](week9_overview.md)
 *   [Day 1: Intro to Deep Learning & Perceptrons](week9_day1.md)
 *   [Day 2: Forward Propagation & Activation Functions](week9_day2.md)
 *   [Day 3: Loss Functions & Backpropagation](week9_day3.md)
@@ -107,7 +98,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 9 Capstone (MNIST Classification)](week9_day7.md)
 
 ### Week 10: Convolutional Neural Networks (CNNs)
-*   [Week 10 Overview](week10_overview.md)
 *   [Day 1: Introduction to CNN Architecture](week10_day1.md)
 *   [Day 2: Convolutional Layers & Filters](week10_day2.md)
 *   [Day 3: Pooling Layers & Downsampling](week10_day3.md)
@@ -117,7 +107,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 10 Capstone (CIFAR-10 Classification)](week10_day7.md)
 
 ### Week 11: RNNs & Sequence Modeling
-*   [Week 11 Overview](week11_overview.md)
 *   [Day 1: Intro to Sequence Modeling & SimpleRNNs](week11_day1.md)
 *   [Day 2: Backpropagation Through Time & Vanishing Gradients](week11_day2.md)
 *   [Day 3: Long Short-Term Memory (LSTMs)](week11_day3.md)
@@ -127,7 +116,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 11 Capstone (Sentiment Analysis Shootout)](week11_day7.md)
 
 ### Week 12: Transformers and Attention Mechanisms
-*   [Week 12 Overview](week12_overview.md)
 *   [Day 1: Intro to Attention (Queries, Keys, Values)](week12_day1.md)
 *   [Day 2: The Transformer Architecture (Encoder vs. Decoder)](week12_day2.md)
 *   [Day 3: Multi-Head Attention Theory & Math](week12_day3.md)
@@ -137,7 +125,6 @@ Below is the complete index of all the micro-tutorials generated for the curricu
 *   [Day 7: Week 12 Capstone (T5 Text Summarization)](week12_day7.md)
 
 ### Week 13: Transfer Learning and Fine-Tuning
-*   [Week 13 Overview](week13_overview.md)
 *   [Day 1: Intro to Transfer Learning & Freezing Layers](week13_day1.md)
 *   [Day 2: Transfer Learning in Computer Vision](week13_day2.md)
 *   [Day 3: Fine-Tuning Techniques & Unfreezing Features](week13_day3.md)
